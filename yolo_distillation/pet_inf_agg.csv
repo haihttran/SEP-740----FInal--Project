@@ -1,0 +1,61 @@
+name,image_name,model,class
+Abyssinian,.\images\pet\Bengal_20_jpg.rf.562bf9de42957796d565e0b81ecdd919.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Abyssinian,.\images\pet\Bengal_58_jpg.rf.e55390a796d7786cf7ddf6dd1b9263ca.jpg,.\weights\yolo11n-pet-distilled.pt,1
+American Pit Bull Terrier,.\images\pet\Bengal_38_jpg.rf.61fe29ede66b30def842c3fb9f33b0d9.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bengal,.\images\pet\Bengal_0_jpg.rf.80786291280318d641d66bf919f95a9e.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bengal,.\images\pet\Bengal_1_jpg.rf.47068050b2f3d7eb416ceaf5c800b101.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bengal,.\images\pet\Bengal_1_jpg.rf.47068050b2f3d7eb416ceaf5c800b101.jpg,.\weights\yolo11s-pet.pt,1
+Bengal,.\images\pet\Bengal_27_jpg.rf.002fb100388e4435e2d5d2cd3412a0f7.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bengal,.\images\pet\Bengal_29_jpg.rf.28c7fdd9e8fbe64051948b01e6c1876c.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bengal,.\images\pet\Bengal_38_jpg.rf.61fe29ede66b30def842c3fb9f33b0d9.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bengal,.\images\pet\Bengal_3_jpg.rf.9bac98f44d8e80a2abd28641e5e15b90.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bengal,.\images\pet\Bengal_43_jpg.rf.ae22a53d1f05a82af9e760c11fda0e06.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bengal,.\images\pet\Bengal_43_jpg.rf.ae22a53d1f05a82af9e760c11fda0e06.jpg,.\weights\yolo11s-pet.pt,1
+Bengal,.\images\pet\Bengal_49_jpg.rf.50e7dce93adf34eecff257b730ff7692.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bengal,.\images\pet\Bengal_4_jpg.rf.132353354032a4c8b8b66030591d710e.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bengal,.\images\pet\Bengal_60_jpg.rf.d2fd83960c97ccf7d89a96b7bc06bbd0.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bengal,.\images\pet\Bengal_65_jpg.rf.26b87e7cbbebb87dc1bf9721c50fac9e.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bengal,.\images\pet\Bengal_67_jpg.rf.dc010e69625e78eec7c2e3f19011047b.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bengal,.\images\pet\Bengal_68_jpg.rf.e688a5ad333791be1f667863b1447f21.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bengal,.\images\pet\Bengal_76_jpg.rf.6d423d5f432697e3a730bdadd9075bb1.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bengal,.\images\pet\Bengal_7_jpg.rf.d8f6e8e7e8872032830e747f055cbdb3.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bengal,.\images\pet\Bengal_89_jpg.rf.164979f60b3b3c3d49f421f11b6a57dc.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Birman,.\images\pet\Birman_12_jpg.rf.baa6575cd7e2253b0f2e361c3e22c225.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Birman,.\images\pet\Birman_24_jpg.rf.23c290a0b33ea577369bbdb05508087c.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Birman,.\images\pet\Birman_2_jpg.rf.8c39b0825f952cd03d5887d229a44218.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Birman,.\images\pet\Birman_35_jpg.rf.a4dec23ddc229517c6a418119fbc02cb.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Birman,.\images\pet\Birman_35_jpg.rf.a4dec23ddc229517c6a418119fbc02cb.jpg,.\weights\yolo11s-pet.pt,1
+Birman,.\images\pet\Birman_39_jpg.rf.e330f0ee2acdb7e5b19e204672d7111d.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Birman,.\images\pet\Birman_50_jpg.rf.2b6f510dc1968320e6d644fe1e77e2a2.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Birman,.\images\pet\Birman_53_jpg.rf.844604073179f7272d977f74dd75201d.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Birman,.\images\pet\Birman_54_jpg.rf.c78d4738a6d6710abb6e4b4b4fa0b20e.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Birman,.\images\pet\Birman_67_jpg.rf.6a2f3b675fa17d0f1491c89ca01f83da.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Birman,.\images\pet\Birman_75_jpg.rf.3e64ea613a566e28378de071ebdee281.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Birman,.\images\pet\Birman_77_jpg.rf.c33a216cdb707c21b9d702185af04e1e.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Birman,.\images\pet\Birman_80_jpg.rf.149e647146547595efc9361d61339f90.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Birman,.\images\pet\Birman_82_jpg.rf.f9037d31e9da5925746f686faf6869b4.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Birman,.\images\pet\Birman_86_jpg.rf.56ee65a53e47ef13a3c44e2feb57732b.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Birman,.\images\pet\Birman_89_jpg.rf.448dfae2694daf9f579e998d0701e25e.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Birman,.\images\pet\Birman_93_jpg.rf.8ac958921bec4723564cabcfbe080afb.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Birman,.\images\pet\Birman_97_jpg.rf.5a0fd5220181a7321d062bc7380742d5.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bombay,.\images\pet\Bombay_11_jpg.rf.1f3b38515a332a3582630ad873975b3d.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bombay,.\images\pet\Bombay_12_jpg.rf.dd172cb5c03b930fc36509f071a28f74.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bombay,.\images\pet\Bombay_17_jpg.rf.d9064616f64972562067ba3a5bc7aebe.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bombay,.\images\pet\Bombay_18_jpg.rf.e658b70b83149ed58a319fdb57a144c5.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bombay,.\images\pet\Bombay_20_jpg.rf.96e4bc0e7eca84a17d116245d12a3719.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bombay,.\images\pet\Bombay_22_jpg.rf.499b4e767abf1b26f305a7e01ba4d006.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bombay,.\images\pet\Bombay_24_jpg.rf.737a4b87af6413272ec416c090bc044b.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bombay,.\images\pet\Bombay_28_jpg.rf.dd068f633921dfd2076575c5676ee227.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bombay,.\images\pet\Bombay_29_jpg.rf.4306990eb9674f6c9fa46b799477411a.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bombay,.\images\pet\Bombay_34_jpg.rf.65b4f3e54bc0a099dd20b17bef30c4f4.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Bombay,.\images\pet\Bombay_9_jpg.rf.b84ab3c7c8b631d25a872d4c3de0095d.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Egyptian Mau,.\images\pet\Bengal_58_jpg.rf.e55390a796d7786cf7ddf6dd1b9263ca.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Egyptian Mau,.\images\pet\Bengal_72_jpg.rf.189c87c364881687043280ab2b051b11.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Maine Coon,.\images\pet\Bengal_20_jpg.rf.562bf9de42957796d565e0b81ecdd919.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Persian,.\images\pet\Birman_82_jpg.rf.f9037d31e9da5925746f686faf6869b4.jpg,.\weights\yolo11s-pet.pt,1
+Ragdoll,.\images\pet\Birman_2_jpg.rf.8c39b0825f952cd03d5887d229a44218.jpg,.\weights\yolo11s-pet.pt,1
+Ragdoll,.\images\pet\Birman_35_jpg.rf.a4dec23ddc229517c6a418119fbc02cb.jpg,.\weights\yolo11s-pet.pt,1
+Ragdoll,.\images\pet\Birman_63_jpg.rf.c906ddd08e4352b29753c34363a20bb2.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Ragdoll,.\images\pet\Birman_70_jpg.rf.ca3d1e511389881d28ea3465344839bc.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Russian Blue,.\images\pet\Bengal_72_jpg.rf.189c87c364881687043280ab2b051b11.jpg,.\weights\yolo11n-pet-distilled.pt,1
+Samoyed,.\images\pet\Bengal_58_jpg.rf.e55390a796d7786cf7ddf6dd1b9263ca.jpg,.\weights\yolo11s-pet.pt,1

@@ -1,0 +1,266 @@
+name,image_name,model,class
+apple,.\images\coco\000000006012.jpg,.\weights\yolo11n-coco-distilled.pt,1
+backpack,.\images\coco\000000013729.jpg,.\weights\yolo11n-coco-distilled.pt,1
+banana,.\images\coco\000000003661.jpg,.\weights\yolo11n-coco-distilled.pt,1
+banana,.\images\coco\000000003661.jpg,.\weights\yolo11n-coco.pt,3
+banana,.\images\coco\000000003661.jpg,.\weights\yolo11s-coco.pt,4
+banana,.\images\coco\000000006012.jpg,.\weights\yolo11n-coco-distilled.pt,2
+banana,.\images\coco\000000006012.jpg,.\weights\yolo11n-coco.pt,6
+banana,.\images\coco\000000006012.jpg,.\weights\yolo11s-coco.pt,5
+banana,.\images\coco\000000008844.jpg,.\weights\yolo11n-coco-distilled.pt,2
+bear,.\images\coco\000000000285.jpg,.\weights\yolo11n-coco-distilled.pt,1
+bear,.\images\coco\000000000285.jpg,.\weights\yolo11n-coco.pt,1
+bear,.\images\coco\000000000285.jpg,.\weights\yolo11s-coco.pt,1
+bench,.\images\coco\000000013546.jpg,.\weights\yolo11n-coco-distilled.pt,1
+bench,.\images\coco\000000013546.jpg,.\weights\yolo11n-coco.pt,1
+bench,.\images\coco\000000013546.jpg,.\weights\yolo11s-coco.pt,1
+bicycle,.\images\coco\000000011197.jpg,.\weights\yolo11n-coco-distilled.pt,1
+bicycle,.\images\coco\000000011197.jpg,.\weights\yolo11s-coco.pt,1
+bird,.\images\coco\000000023230.jpg,.\weights\yolo11n-coco-distilled.pt,2
+bottle,.\images\coco\000000013729.jpg,.\weights\yolo11n-coco.pt,1
+bottle,.\images\coco\000000013729.jpg,.\weights\yolo11s-coco.pt,1
+bottle,.\images\coco\000000022705.jpg,.\weights\yolo11n-coco-distilled.pt,1
+bottle,.\images\coco\000000022705.jpg,.\weights\yolo11n-coco.pt,1
+bottle,.\images\coco\000000022705.jpg,.\weights\yolo11s-coco.pt,1
+bowl,.\images\coco\000000003501.jpg,.\weights\yolo11n-coco-distilled.pt,1
+bowl,.\images\coco\000000003501.jpg,.\weights\yolo11n-coco.pt,1
+bowl,.\images\coco\000000003501.jpg,.\weights\yolo11s-coco.pt,1
+bowl,.\images\coco\000000015254.jpg,.\weights\yolo11n-coco-distilled.pt,4
+bowl,.\images\coco\000000015254.jpg,.\weights\yolo11n-coco.pt,4
+bowl,.\images\coco\000000015254.jpg,.\weights\yolo11s-coco.pt,4
+bowl,.\images\coco\000000022705.jpg,.\weights\yolo11n-coco-distilled.pt,1
+bowl,.\images\coco\000000023781.jpg,.\weights\yolo11n-coco-distilled.pt,1
+bowl,.\images\coco\000000023781.jpg,.\weights\yolo11n-coco.pt,1
+bowl,.\images\coco\000000023781.jpg,.\weights\yolo11s-coco.pt,2
+broccoli,.\images\coco\000000003501.jpg,.\weights\yolo11n-coco-distilled.pt,2
+broccoli,.\images\coco\000000003501.jpg,.\weights\yolo11n-coco.pt,2
+broccoli,.\images\coco\000000003501.jpg,.\weights\yolo11s-coco.pt,2
+broccoli,.\images\coco\000000015278.jpg,.\weights\yolo11n-coco-distilled.pt,3
+broccoli,.\images\coco\000000015278.jpg,.\weights\yolo11n-coco.pt,5
+broccoli,.\images\coco\000000015278.jpg,.\weights\yolo11s-coco.pt,4
+broccoli,.\images\coco\000000019221.jpg,.\weights\yolo11n-coco-distilled.pt,1
+broccoli,.\images\coco\000000019221.jpg,.\weights\yolo11n-coco.pt,2
+broccoli,.\images\coco\000000019221.jpg,.\weights\yolo11s-coco.pt,2
+broccoli,.\images\coco\000000023781.jpg,.\weights\yolo11n-coco-distilled.pt,1
+cake,.\images\coco\000000013597.jpg,.\weights\yolo11n-coco-distilled.pt,1
+car,.\images\coco\000000011197.jpg,.\weights\yolo11n-coco-distilled.pt,6
+car,.\images\coco\000000011197.jpg,.\weights\yolo11n-coco.pt,3
+car,.\images\coco\000000011197.jpg,.\weights\yolo11s-coco.pt,4
+car,.\images\coco\000000013546.jpg,.\weights\yolo11n-coco-distilled.pt,1
+car,.\images\coco\000000013546.jpg,.\weights\yolo11s-coco.pt,1
+carrot,.\images\coco\000000015254.jpg,.\weights\yolo11n-coco-distilled.pt,2
+carrot,.\images\coco\000000015254.jpg,.\weights\yolo11n-coco.pt,2
+carrot,.\images\coco\000000015254.jpg,.\weights\yolo11s-coco.pt,1
+carrot,.\images\coco\000000023781.jpg,.\weights\yolo11n-coco-distilled.pt,4
+carrot,.\images\coco\000000023781.jpg,.\weights\yolo11n-coco.pt,1
+carrot,.\images\coco\000000023781.jpg,.\weights\yolo11s-coco.pt,2
+cat,.\images\coco\000000014831.jpg,.\weights\yolo11n-coco-distilled.pt,1
+cat,.\images\coco\000000022892.jpg,.\weights\yolo11n-coco-distilled.pt,1
+cat,.\images\coco\000000022892.jpg,.\weights\yolo11s-coco.pt,1
+chair,.\images\coco\000000012576.jpg,.\weights\yolo11n-coco-distilled.pt,1
+chair,.\images\coco\000000013923.jpg,.\weights\yolo11n-coco-distilled.pt,2
+chair,.\images\coco\000000013923.jpg,.\weights\yolo11s-coco.pt,3
+clock,.\images\coco\000000013923.jpg,.\weights\yolo11s-coco.pt,1
+couch,.\images\coco\000000003934.jpg,.\weights\yolo11n-coco-distilled.pt,1
+couch,.\images\coco\000000003934.jpg,.\weights\yolo11n-coco.pt,2
+couch,.\images\coco\000000003934.jpg,.\weights\yolo11s-coco.pt,1
+couch,.\images\coco\000000013923.jpg,.\weights\yolo11n-coco-distilled.pt,1
+couch,.\images\coco\000000013923.jpg,.\weights\yolo11n-coco.pt,1
+couch,.\images\coco\000000013923.jpg,.\weights\yolo11s-coco.pt,1
+cup,.\images\coco\000000003661.jpg,.\weights\yolo11n-coco-distilled.pt,1
+cup,.\images\coco\000000003661.jpg,.\weights\yolo11s-coco.pt,1
+cup,.\images\coco\000000009400.jpg,.\weights\yolo11n-coco-distilled.pt,5
+cup,.\images\coco\000000009400.jpg,.\weights\yolo11n-coco.pt,1
+cup,.\images\coco\000000009400.jpg,.\weights\yolo11s-coco.pt,2
+cup,.\images\coco\000000012576.jpg,.\weights\yolo11n-coco-distilled.pt,4
+cup,.\images\coco\000000012576.jpg,.\weights\yolo11n-coco.pt,1
+cup,.\images\coco\000000012576.jpg,.\weights\yolo11s-coco.pt,4
+cup,.\images\coco\000000018575.jpg,.\weights\yolo11n-coco-distilled.pt,4
+cup,.\images\coco\000000018575.jpg,.\weights\yolo11n-coco.pt,1
+cup,.\images\coco\000000018575.jpg,.\weights\yolo11s-coco.pt,2
+dining table,.\images\coco\000000003501.jpg,.\weights\yolo11n-coco.pt,1
+dining table,.\images\coco\000000012576.jpg,.\weights\yolo11n-coco-distilled.pt,1
+dining table,.\images\coco\000000012576.jpg,.\weights\yolo11n-coco.pt,1
+dining table,.\images\coco\000000012576.jpg,.\weights\yolo11s-coco.pt,1
+dining table,.\images\coco\000000013597.jpg,.\weights\yolo11n-coco-distilled.pt,1
+dining table,.\images\coco\000000013923.jpg,.\weights\yolo11s-coco.pt,2
+dining table,.\images\coco\000000015254.jpg,.\weights\yolo11s-coco.pt,1
+dining table,.\images\coco\000000018575.jpg,.\weights\yolo11n-coco-distilled.pt,1
+dining table,.\images\coco\000000018575.jpg,.\weights\yolo11n-coco.pt,1
+dining table,.\images\coco\000000018575.jpg,.\weights\yolo11s-coco.pt,1
+dining table,.\images\coco\000000022623.jpg,.\weights\yolo11n-coco-distilled.pt,1
+dog,.\images\coco\000000022892.jpg,.\weights\yolo11n-coco-distilled.pt,2
+dog,.\images\coco\000000022892.jpg,.\weights\yolo11s-coco.pt,2
+elephant,.\images\coco\000000021903.jpg,.\weights\yolo11n-coco-distilled.pt,1
+elephant,.\images\coco\000000021903.jpg,.\weights\yolo11n-coco.pt,1
+elephant,.\images\coco\000000021903.jpg,.\weights\yolo11s-coco.pt,1
+fork,.\images\coco\000000012576.jpg,.\weights\yolo11n-coco.pt,1
+frisbee,.\images\coco\000000009378.jpg,.\weights\yolo11n-coco-distilled.pt,1
+frisbee,.\images\coco\000000009378.jpg,.\weights\yolo11s-coco.pt,1
+frisbee,.\images\coco\000000013774.jpg,.\weights\yolo11s-coco.pt,1
+horse,.\images\coco\000000023034.jpg,.\weights\yolo11n-coco-distilled.pt,2
+horse,.\images\coco\000000023034.jpg,.\weights\yolo11n-coco.pt,2
+horse,.\images\coco\000000023034.jpg,.\weights\yolo11s-coco.pt,2
+keyboard,.\images\coco\000000009400.jpg,.\weights\yolo11n-coco-distilled.pt,1
+kite,.\images\coco\000000013774.jpg,.\weights\yolo11n-coco.pt,1
+kite,.\images\coco\000000024027.jpg,.\weights\yolo11n-coco-distilled.pt,2
+kite,.\images\coco\000000024027.jpg,.\weights\yolo11n-coco.pt,1
+kite,.\images\coco\000000024027.jpg,.\weights\yolo11s-coco.pt,2
+knife,.\images\coco\000000012576.jpg,.\weights\yolo11n-coco-distilled.pt,1
+knife,.\images\coco\000000012576.jpg,.\weights\yolo11n-coco.pt,1
+knife,.\images\coco\000000012576.jpg,.\weights\yolo11s-coco.pt,1
+knife,.\images\coco\000000015079.jpg,.\weights\yolo11n-coco-distilled.pt,1
+laptop,.\images\coco\000000009400.jpg,.\weights\yolo11n-coco-distilled.pt,6
+laptop,.\images\coco\000000009400.jpg,.\weights\yolo11n-coco.pt,1
+laptop,.\images\coco\000000009400.jpg,.\weights\yolo11s-coco.pt,7
+orange,.\images\coco\000000003661.jpg,.\weights\yolo11n-coco.pt,1
+orange,.\images\coco\000000003661.jpg,.\weights\yolo11s-coco.pt,1
+orange,.\images\coco\000000006012.jpg,.\weights\yolo11n-coco-distilled.pt,1
+orange,.\images\coco\000000006012.jpg,.\weights\yolo11n-coco.pt,1
+orange,.\images\coco\000000006012.jpg,.\weights\yolo11s-coco.pt,1
+oven,.\images\coco\000000000802.jpg,.\weights\yolo11n-coco-distilled.pt,1
+oven,.\images\coco\000000000802.jpg,.\weights\yolo11n-coco.pt,2
+oven,.\images\coco\000000000802.jpg,.\weights\yolo11s-coco.pt,1
+oven,.\images\coco\000000022705.jpg,.\weights\yolo11n-coco-distilled.pt,1
+oven,.\images\coco\000000024144.jpg,.\weights\yolo11n-coco-distilled.pt,1
+person,.\images\coco\000000000785.jpg,.\weights\yolo11n-coco-distilled.pt,1
+person,.\images\coco\000000000785.jpg,.\weights\yolo11n-coco.pt,1
+person,.\images\coco\000000000785.jpg,.\weights\yolo11s-coco.pt,1
+person,.\images\coco\000000000872.jpg,.\weights\yolo11n-coco-distilled.pt,2
+person,.\images\coco\000000000872.jpg,.\weights\yolo11n-coco.pt,2
+person,.\images\coco\000000000872.jpg,.\weights\yolo11s-coco.pt,4
+person,.\images\coco\000000003156.jpg,.\weights\yolo11n-coco-distilled.pt,1
+person,.\images\coco\000000003156.jpg,.\weights\yolo11n-coco.pt,1
+person,.\images\coco\000000003156.jpg,.\weights\yolo11s-coco.pt,1
+person,.\images\coco\000000003553.jpg,.\weights\yolo11n-coco-distilled.pt,1
+person,.\images\coco\000000003553.jpg,.\weights\yolo11s-coco.pt,1
+person,.\images\coco\000000003934.jpg,.\weights\yolo11n-coco-distilled.pt,7
+person,.\images\coco\000000003934.jpg,.\weights\yolo11n-coco.pt,7
+person,.\images\coco\000000003934.jpg,.\weights\yolo11s-coco.pt,7
+person,.\images\coco\000000005586.jpg,.\weights\yolo11n-coco-distilled.pt,5
+person,.\images\coco\000000005586.jpg,.\weights\yolo11n-coco.pt,4
+person,.\images\coco\000000005586.jpg,.\weights\yolo11s-coco.pt,4
+person,.\images\coco\000000008844.jpg,.\weights\yolo11n-coco-distilled.pt,2
+person,.\images\coco\000000008844.jpg,.\weights\yolo11n-coco.pt,1
+person,.\images\coco\000000008844.jpg,.\weights\yolo11s-coco.pt,1
+person,.\images\coco\000000009378.jpg,.\weights\yolo11n-coco-distilled.pt,6
+person,.\images\coco\000000009378.jpg,.\weights\yolo11n-coco.pt,4
+person,.\images\coco\000000009378.jpg,.\weights\yolo11s-coco.pt,3
+person,.\images\coco\000000009400.jpg,.\weights\yolo11n-coco-distilled.pt,7
+person,.\images\coco\000000009400.jpg,.\weights\yolo11n-coco.pt,5
+person,.\images\coco\000000009400.jpg,.\weights\yolo11s-coco.pt,7
+person,.\images\coco\000000011197.jpg,.\weights\yolo11n-coco-distilled.pt,4
+person,.\images\coco\000000011197.jpg,.\weights\yolo11n-coco.pt,3
+person,.\images\coco\000000011197.jpg,.\weights\yolo11s-coco.pt,4
+person,.\images\coco\000000012576.jpg,.\weights\yolo11n-coco-distilled.pt,1
+person,.\images\coco\000000012576.jpg,.\weights\yolo11n-coco.pt,2
+person,.\images\coco\000000012576.jpg,.\weights\yolo11s-coco.pt,1
+person,.\images\coco\000000012670.jpg,.\weights\yolo11n-coco-distilled.pt,14
+person,.\images\coco\000000012670.jpg,.\weights\yolo11n-coco.pt,15
+person,.\images\coco\000000012670.jpg,.\weights\yolo11s-coco.pt,15
+person,.\images\coco\000000013546.jpg,.\weights\yolo11n-coco-distilled.pt,3
+person,.\images\coco\000000013546.jpg,.\weights\yolo11n-coco.pt,2
+person,.\images\coco\000000013546.jpg,.\weights\yolo11s-coco.pt,3
+person,.\images\coco\000000013729.jpg,.\weights\yolo11n-coco-distilled.pt,6
+person,.\images\coco\000000013729.jpg,.\weights\yolo11n-coco.pt,3
+person,.\images\coco\000000013729.jpg,.\weights\yolo11s-coco.pt,4
+person,.\images\coco\000000013774.jpg,.\weights\yolo11n-coco-distilled.pt,1
+person,.\images\coco\000000013774.jpg,.\weights\yolo11n-coco.pt,1
+person,.\images\coco\000000013774.jpg,.\weights\yolo11s-coco.pt,1
+person,.\images\coco\000000014473.jpg,.\weights\yolo11n-coco-distilled.pt,7
+person,.\images\coco\000000014473.jpg,.\weights\yolo11n-coco.pt,6
+person,.\images\coco\000000014473.jpg,.\weights\yolo11s-coco.pt,7
+person,.\images\coco\000000019221.jpg,.\weights\yolo11n-coco-distilled.pt,1
+person,.\images\coco\000000021903.jpg,.\weights\yolo11n-coco-distilled.pt,2
+person,.\images\coco\000000021903.jpg,.\weights\yolo11n-coco.pt,3
+person,.\images\coco\000000021903.jpg,.\weights\yolo11s-coco.pt,2
+person,.\images\coco\000000022479.jpg,.\weights\yolo11n-coco-distilled.pt,1
+person,.\images\coco\000000022479.jpg,.\weights\yolo11n-coco.pt,1
+person,.\images\coco\000000022479.jpg,.\weights\yolo11s-coco.pt,1
+person,.\images\coco\000000022705.jpg,.\weights\yolo11n-coco-distilled.pt,1
+person,.\images\coco\000000022705.jpg,.\weights\yolo11n-coco.pt,1
+person,.\images\coco\000000022705.jpg,.\weights\yolo11s-coco.pt,1
+person,.\images\coco\000000023034.jpg,.\weights\yolo11n-coco-distilled.pt,2
+person,.\images\coco\000000023034.jpg,.\weights\yolo11n-coco.pt,1
+person,.\images\coco\000000023034.jpg,.\weights\yolo11s-coco.pt,2
+person,.\images\coco\000000023359.jpg,.\weights\yolo11n-coco-distilled.pt,1
+person,.\images\coco\000000023359.jpg,.\weights\yolo11n-coco.pt,1
+person,.\images\coco\000000023359.jpg,.\weights\yolo11s-coco.pt,1
+person,.\images\coco\000000024021.jpg,.\weights\yolo11n-coco-distilled.pt,2
+person,.\images\coco\000000024021.jpg,.\weights\yolo11n-coco.pt,4
+person,.\images\coco\000000024021.jpg,.\weights\yolo11s-coco.pt,2
+person,.\images\coco\000000024027.jpg,.\weights\yolo11n-coco-distilled.pt,2
+person,.\images\coco\000000024027.jpg,.\weights\yolo11n-coco.pt,1
+person,.\images\coco\000000024027.jpg,.\weights\yolo11s-coco.pt,2
+pizza,.\images\coco\000000012576.jpg,.\weights\yolo11n-coco-distilled.pt,4
+pizza,.\images\coco\000000012576.jpg,.\weights\yolo11n-coco.pt,2
+pizza,.\images\coco\000000012576.jpg,.\weights\yolo11s-coco.pt,3
+pizza,.\images\coco\000000024144.jpg,.\weights\yolo11n-coco-distilled.pt,1
+pizza,.\images\coco\000000024144.jpg,.\weights\yolo11n-coco.pt,1
+pizza,.\images\coco\000000024144.jpg,.\weights\yolo11s-coco.pt,1
+potted plant,.\images\coco\000000013923.jpg,.\weights\yolo11n-coco-distilled.pt,2
+potted plant,.\images\coco\000000013923.jpg,.\weights\yolo11n-coco.pt,1
+potted plant,.\images\coco\000000013923.jpg,.\weights\yolo11s-coco.pt,1
+refrigerator,.\images\coco\000000000802.jpg,.\weights\yolo11n-coco-distilled.pt,1
+refrigerator,.\images\coco\000000000802.jpg,.\weights\yolo11n-coco.pt,1
+refrigerator,.\images\coco\000000000802.jpg,.\weights\yolo11s-coco.pt,1
+refrigerator,.\images\coco\000000022705.jpg,.\weights\yolo11n-coco-distilled.pt,1
+refrigerator,.\images\coco\000000022705.jpg,.\weights\yolo11s-coco.pt,1
+remote,.\images\coco\000000013729.jpg,.\weights\yolo11n-coco-distilled.pt,2
+sandwich,.\images\coco\000000015079.jpg,.\weights\yolo11n-coco-distilled.pt,3
+sandwich,.\images\coco\000000015079.jpg,.\weights\yolo11n-coco.pt,1
+sandwich,.\images\coco\000000015079.jpg,.\weights\yolo11s-coco.pt,1
+sandwich,.\images\coco\000000018575.jpg,.\weights\yolo11n-coco-distilled.pt,1
+sink,.\images\coco\000000003156.jpg,.\weights\yolo11n-coco-distilled.pt,1
+sink,.\images\coco\000000003156.jpg,.\weights\yolo11s-coco.pt,1
+skateboard,.\images\coco\000000003553.jpg,.\weights\yolo11n-coco-distilled.pt,1
+skateboard,.\images\coco\000000003553.jpg,.\weights\yolo11n-coco.pt,2
+skateboard,.\images\coco\000000003553.jpg,.\weights\yolo11s-coco.pt,1
+skateboard,.\images\coco\000000013546.jpg,.\weights\yolo11n-coco-distilled.pt,1
+skateboard,.\images\coco\000000013546.jpg,.\weights\yolo11s-coco.pt,1
+skateboard,.\images\coco\000000022479.jpg,.\weights\yolo11n-coco-distilled.pt,1
+skateboard,.\images\coco\000000022479.jpg,.\weights\yolo11s-coco.pt,1
+skis,.\images\coco\000000000785.jpg,.\weights\yolo11n-coco-distilled.pt,1
+skis,.\images\coco\000000000785.jpg,.\weights\yolo11n-coco.pt,1
+skis,.\images\coco\000000000785.jpg,.\weights\yolo11s-coco.pt,1
+stop sign,.\images\coco\000000000724.jpg,.\weights\yolo11n-coco-distilled.pt,1
+stop sign,.\images\coco\000000000724.jpg,.\weights\yolo11n-coco.pt,1
+stop sign,.\images\coco\000000000724.jpg,.\weights\yolo11s-coco.pt,1
+stop sign,.\images\coco\000000011122.jpg,.\weights\yolo11n-coco-distilled.pt,1
+stop sign,.\images\coco\000000011122.jpg,.\weights\yolo11n-coco.pt,1
+stop sign,.\images\coco\000000011122.jpg,.\weights\yolo11s-coco.pt,1
+stop sign,.\images\coco\000000011615.jpg,.\weights\yolo11n-coco-distilled.pt,1
+stop sign,.\images\coco\000000011615.jpg,.\weights\yolo11n-coco.pt,2
+stop sign,.\images\coco\000000011615.jpg,.\weights\yolo11s-coco.pt,1
+suitcase,.\images\coco\000000023023.jpg,.\weights\yolo11n-coco-distilled.pt,2
+suitcase,.\images\coco\000000023023.jpg,.\weights\yolo11n-coco.pt,1
+suitcase,.\images\coco\000000023023.jpg,.\weights\yolo11s-coco.pt,1
+teddy bear,.\images\coco\000000000776.jpg,.\weights\yolo11n-coco-distilled.pt,4
+teddy bear,.\images\coco\000000000776.jpg,.\weights\yolo11n-coco.pt,4
+teddy bear,.\images\coco\000000000776.jpg,.\weights\yolo11s-coco.pt,5
+teddy bear,.\images\coco\000000012670.jpg,.\weights\yolo11n-coco-distilled.pt,1
+tennis racket,.\images\coco\000000005586.jpg,.\weights\yolo11n-coco-distilled.pt,2
+tennis racket,.\images\coco\000000005586.jpg,.\weights\yolo11s-coco.pt,1
+toilet,.\images\coco\000000003156.jpg,.\weights\yolo11s-coco.pt,1
+traffic light,.\images\coco\000000008762.jpg,.\weights\yolo11n-coco-distilled.pt,6
+traffic light,.\images\coco\000000008762.jpg,.\weights\yolo11n-coco.pt,3
+traffic light,.\images\coco\000000008762.jpg,.\weights\yolo11s-coco.pt,5
+traffic light,.\images\coco\000000011197.jpg,.\weights\yolo11n-coco-distilled.pt,2
+traffic light,.\images\coco\000000011197.jpg,.\weights\yolo11n-coco.pt,2
+traffic light,.\images\coco\000000011197.jpg,.\weights\yolo11s-coco.pt,3
+traffic light,.\images\coco\000000015272.jpg,.\weights\yolo11n-coco-distilled.pt,1
+train,.\images\coco\000000014380.jpg,.\weights\yolo11n-coco-distilled.pt,1
+train,.\images\coco\000000014380.jpg,.\weights\yolo11n-coco.pt,1
+train,.\images\coco\000000014380.jpg,.\weights\yolo11s-coco.pt,1
+train,.\images\coco\000000014473.jpg,.\weights\yolo11n-coco-distilled.pt,1
+train,.\images\coco\000000014473.jpg,.\weights\yolo11n-coco.pt,1
+train,.\images\coco\000000014473.jpg,.\weights\yolo11s-coco.pt,2
+tv,.\images\coco\000000012576.jpg,.\weights\yolo11n-coco-distilled.pt,1
+tv,.\images\coco\000000012576.jpg,.\weights\yolo11s-coco.pt,1
+tv,.\images\coco\000000013729.jpg,.\weights\yolo11n-coco-distilled.pt,1
+tv,.\images\coco\000000013729.jpg,.\weights\yolo11s-coco.pt,1
+tv,.\images\coco\000000013923.jpg,.\weights\yolo11n-coco-distilled.pt,1
+tv,.\images\coco\000000013923.jpg,.\weights\yolo11s-coco.pt,1
+vase,.\images\coco\000000013923.jpg,.\weights\yolo11n-coco-distilled.pt,1
+vase,.\images\coco\000000013923.jpg,.\weights\yolo11s-coco.pt,1
+wine glass,.\images\coco\000000003934.jpg,.\weights\yolo11s-coco.pt,1

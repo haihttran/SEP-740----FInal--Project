@@ -1,0 +1,13 @@
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+
+nc: 37
+names: ['Abyssinian', 'American Bulldog', 'American Pit Bull Terrier', 'Basset Hound', 'Beagle', 'Bengal', 'Birman', 'Bombay', 'Boxer', 'British Shorthair', 'Chihuahua', 'Egyptian Mau', 'English Cocker Spaniel', 'English Setter', 'German Shorthaired', 'Great Pyrenees', 'Havanese', 'Japanese Chin', 'Keeshond', 'Leonberger', 'Maine Coon', 'Miniature Pinscher', 'Newfoundland', 'Persian', 'Pomeranian', 'Pug', 'Ragdoll', 'Russian Blue', 'Saint Bernard', 'Samoyed', 'Scottish Terrier', 'Shiba Inu', 'Siamese', 'Sphynx', 'Staffordshire Bull Terrier', 'Wheaten Terrier', 'Yorkshire Terrier']
+
+roboflow:
+  workspace: dong-ruwmi
+  project: oxford-pet-5jyvt
+  version: 6
+  license: BY-NC-SA 4.0
+  url: https://universe.roboflow.com/dong-ruwmi/oxford-pet-5jyvt/dataset/6
