@@ -17,3 +17,8 @@ The models were trained on a machine with 32GB ram and GPU Nvidia RTX 3050m 4GB 
 Pet and Aquarium datasets are included in this repository.
 
 COCO dataset, due to its enormous size, is not included in this repository. The training scripts will automatically detect and download the dataset when they are executed.
+
+## Results and Inference:
+Training results are save in yolo_distillation/ directory. The saved models are located in the folder yolo_distillation/weights.
+
+Inference script for back testing is in the file yolo_distillation/yolo_inference.py
