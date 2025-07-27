@@ -1,6 +1,6 @@
 # SEP-740---Project
 
-This project consists of source code for training YOLO11 models (teachers, students, and independently trained ones). This includes 2 submodules: the standard Utralytics submodule in directory yolo_distillation/yolo_knowledge_distillation and the customized file yolo_distillation/yolo-distiller implemented by Daniel Syahputra (source: https://github.com/danielsyahputra/yolo-distiller). Due to technical problem, I have to remove .git files from both of directories in order to push this repository.
+This project consists of source code for training YOLO11 models (teachers, students, and independently trained ones). This includes 2 submodules: the standard official Utralytics's YOLO submodule (https://github.com/ultralytics/ultralytics) in directory yolo_distillation/yolo_knowledge_distillation and the customized file yolo_distillation/yolo-distiller implemented by Daniel Syahputra (source: https://github.com/danielsyahputra/yolo-distiller). Due to technical problem, I have to remove .git files from both of directories in order to push this repository.
 
 ## Sub-modules:
 The training script for teachers and independently trained models is located in the file yolo_distillation/yolo_knowledge_distillation/yolo_detection_training.py
